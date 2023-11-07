@@ -1,4 +1,4 @@
-# github
+# fetch-issue-github-api
 
 ## 環境変数を設定
 
